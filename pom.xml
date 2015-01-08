@@ -19,6 +19,17 @@
             <artifactId>windowlicker-swing</artifactId>
             <version>r268</version>
         </dependency>
+        <dependency>
+            <groupId>org.igniterealtime.smack</groupId>
+            <artifactId>smack-core</artifactId>
+            <version>4.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.igniterealtime.smack</groupId>
+            <artifactId>smack-tcp</artifactId>
+            <version>4.0.6</version>
+        </dependency>
+
     </dependencies>
 
 </project>
